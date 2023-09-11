@@ -9,3 +9,5 @@ A monitoring system with IoT (Internet of Things) devices is a sophisticated inf
 ### Database Diagram
 <img src="https://github.com/mehmetylvcli/data-monitoring-system-server/assets/72421868/84b1e978-9e9a-4ef4-be04-63894bb4cfd3" width="800" height="800"/>
 
+### Monitoring Screen Sample with Flutter
+<img  src="https://github.com/mehmetylvcli/data-monitoring-system-server/assets/72421868/b89210d2-dc56-42f3-9451-8dbf45bdf694"/>
